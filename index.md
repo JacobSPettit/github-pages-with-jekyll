@@ -1,5 +1,5 @@
 ---
-title: "Hi! My name is Jacob & I'm learning GitHub :boom:"
+title: "<h1>Hi! My name is Jacob & I'm learning GitHub :boom:</h1>"
 ---
 
 I'm super excited to be learning GitHub. It is a must know thing going into becoming a developer.
